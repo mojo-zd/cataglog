@@ -1,0 +1,4 @@
+name: Mojo-Catalog # Name of the Catalog Entry
+description:  catalog for test # Description of the Catalog Entry
+version: 0.1 # Version of the Catalog to be used
+category: mojo # Category to be used for searching catalog entries
