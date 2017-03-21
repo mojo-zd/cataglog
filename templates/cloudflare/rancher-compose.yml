@@ -1,0 +1,5 @@
+version: '2'
+catalog:
+  name: catalog test # Name of the versioned template of the Catalog Entry
+  version: 0.1 # Version of the versioned template of the Catalog Entry
+  description: catalog test for mojo # Description of the versioned template of the Catalog Entry
